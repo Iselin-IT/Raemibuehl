@@ -9,6 +9,8 @@
 
 [RG Lehrerzimmer](https://iselin-it.github.io/Raemibuehl/Timetables/RG_Lehrerzimmer.html)
 
+[RG Lehrerzimmer 2025](https://iselin-it.github.io/Raemibuehl/Timetables/RG_Lehrerzimmer_25.html)
+
 [LG Foyer / Lehrerzimmer](https://iselin-it.github.io/Raemibuehl/Timetables/LG_Foyer_Lehrerzimmer.html)
 
 [LG Foyer / Lehrerzimmer - info](https://iselin-it.github.io/Raemibuehl/Timetables/LG_Foyer_Lehrerzimmer_info_5min.html)
